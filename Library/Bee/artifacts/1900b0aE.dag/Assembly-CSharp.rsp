@@ -350,7 +350,9 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Script/Collectible.cs"
 "Assets/Script/CollisionHandler.cs"
+"Assets/Script/LockYCam.cs"
 "Assets/Script/Movement.cs"
+"Assets/Script/Score.cs"
 -langversion:9.0
 
 /deterministic
